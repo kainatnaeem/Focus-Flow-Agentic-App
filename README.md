@@ -4,6 +4,10 @@ A simple AI-powered goal planning application built with Flutter, FastAPI, and O
 
 Focus Flow allows users to enter a goal and receive an AI-generated plan. The Flutter application communicates with a FastAPI backend, which sends the user's goal to OpenAI and returns the generated plan.
 
+<img width="572" height="1017" alt="ff flow 1" src="https://github.com/user-attachments/assets/73c3c4a2-abc2-4ac9-b7f6-390bef5bfc60" />
+<img width="572" height="1010" alt="ff flow 2" src="https://github.com/user-attachments/assets/ef3956dd-9cb9-4305-ada2-439bcb18e9b5" />
+
+
 ## Tech Stack
 
 **Frontend**
